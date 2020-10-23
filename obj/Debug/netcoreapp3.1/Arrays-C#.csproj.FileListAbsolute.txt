@@ -1,0 +1,13 @@
+C:\Users\Elith\OneDrive\Desktop\Arrays-C#\bin\Debug\netcoreapp3.1\Arrays-C#.exe
+C:\Users\Elith\OneDrive\Desktop\Arrays-C#\bin\Debug\netcoreapp3.1\Arrays-C#.deps.json
+C:\Users\Elith\OneDrive\Desktop\Arrays-C#\bin\Debug\netcoreapp3.1\Arrays-C#.runtimeconfig.json
+C:\Users\Elith\OneDrive\Desktop\Arrays-C#\bin\Debug\netcoreapp3.1\Arrays-C#.runtimeconfig.dev.json
+C:\Users\Elith\OneDrive\Desktop\Arrays-C#\bin\Debug\netcoreapp3.1\Arrays-C#.dll
+C:\Users\Elith\OneDrive\Desktop\Arrays-C#\bin\Debug\netcoreapp3.1\Arrays-C#.pdb
+C:\Users\Elith\OneDrive\Desktop\Arrays-C#\obj\Debug\netcoreapp3.1\Arrays-C#.csprojAssemblyReference.cache
+C:\Users\Elith\OneDrive\Desktop\Arrays-C#\obj\Debug\netcoreapp3.1\Arrays-C#.AssemblyInfoInputs.cache
+C:\Users\Elith\OneDrive\Desktop\Arrays-C#\obj\Debug\netcoreapp3.1\Arrays-C#.AssemblyInfo.cs
+C:\Users\Elith\OneDrive\Desktop\Arrays-C#\obj\Debug\netcoreapp3.1\Arrays-C#.csproj.CoreCompileInputs.cache
+C:\Users\Elith\OneDrive\Desktop\Arrays-C#\obj\Debug\netcoreapp3.1\Arrays-C#.dll
+C:\Users\Elith\OneDrive\Desktop\Arrays-C#\obj\Debug\netcoreapp3.1\Arrays-C#.pdb
+C:\Users\Elith\OneDrive\Desktop\Arrays-C#\obj\Debug\netcoreapp3.1\Arrays-C#.genruntimeconfig.cache
